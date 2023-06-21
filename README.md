@@ -17,7 +17,7 @@ feasibility and potential of using DL techniques to bypass FEA for stress analys
 ### Overview figure
 ![1st paper](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/Overview-1st%20paper.png)
 
-### Predicted stress distribution and corresponding inputs with different loads and boundary conditions scenarios: 
+### Predicted stress distribution and corresponding inputs with different loads and boundary conditions scenarios
 ![comparision](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/1st-paper-comparision.png)
 (a) geometry, (b) boundary conditions, (c) horizontal load (d) vertical load; (e) ground truth, (f) predicted stress distribution
 (unit: MPa)
