@@ -15,3 +15,4 @@ absolute error of 0.9% and an absolute peak error of 0.46% for the von Mises str
 feasibility and potential of using DL techniques to bypass FEA for stress analysis applications.
 
 ### Overview figure
+![1st paper](https://github.com/bolandih/bolandih.github.io/blob/gh-pages/Images/Overview-1st%20paper.png)
