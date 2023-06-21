@@ -1,7 +1,7 @@
 # Static Stress Prediction 
 ## Bridging finite element and deep learning: High-resolution stress distribution prediction in structural components
 
-### Paper is available at [Paper](https://link.springer.com/article/10.1007/s11709-022-0882-5)
+### [Link to paper](https://link.springer.com/article/10.1007/s11709-022-0882-5)
 
 #### Authors: [Hamed Bolandi](https://bolandih.github.io/), Xuyang Li, Talal Salem Vishnu Boddeti, Nizar Lajnef
 ### Abstract
